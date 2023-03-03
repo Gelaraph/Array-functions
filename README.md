@@ -12,16 +12,16 @@
 
    - Mutating array methods:
 
-   a. push(): Adds one or more elements to the end of the array and returns the new length of the array.
-   b. pop(): Removes the last element from the array and returns it.
-   c. splice(): Changes the contents of an array by removing or replacing existing elements and/or adding new elements.
-   d. reverse(): Reverses the order of the elements in the array.
-   e. sort(): Sorts the elements of an array in place and returns the sorted array.
+   1. push(): Adds one or more elements to the end of the array and returns the new length of the array.
+   2. pop(): Removes the last element from the array and returns it.
+   3. splice(): Changes the contents of an array by removing or replacing existing elements and/or adding new elements.
+   4. reverse(): Reverses the order of the elements in the array.
+   5. sort(): Sorts the elements of an array in place and returns the sorted array.
 
    - Non-mutating array methods:
 
-   a. slice(): Returns a new array containing a copy of a portion of the original array.
-   b. concat(): Returns a new array that combines two or more arrays.
-   c. filter(): Returns a new array containing all elements that pass a certain test.
-   d. map(): Returns a new array containing the results of calling a function on each element in the original array.
-   e. reduce(): Applies a function to each element in an array to reduce it to a single value, and returns that value.
+   1. slice(): Returns a new array containing a copy of a portion of the original array.
+   2. concat(): Returns a new array that combines two or more arrays.
+   3. filter(): Returns a new array containing all elements that pass a certain test.
+   4. map(): Returns a new array containing the results of calling a function on each element in the original array.
+   5. reduce(): Applies a function to each element in an array to reduce it to a single value, and returns that value.
